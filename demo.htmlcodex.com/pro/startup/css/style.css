@@ -239,7 +239,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgb(112 124 143 / 41%);
+    /* background: rgb(112 124 143 / 41%); */
     z-index: 1;
 }
 
